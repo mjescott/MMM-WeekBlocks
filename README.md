@@ -13,7 +13,7 @@ MMM-WeekBlocks doesn't fetch calendars itself. It listens for the `CALENDAR_EVEN
 
 ```bash
 cd ~/MagicMirror/modules
-git clone https://github.com/<your-username>/MMM-WeekBlocks.git
+git clone https://github.com/mjescott/MMM-WeekBlocks.git
 ```
 
 No `npm install` needed.
